@@ -1,104 +1,136 @@
-# ✨ Hi, I'm **Vrutik Parmar** — Software Developer | Full-Stack | Cloud & Automation Enthusiast  
+<div align="center">
 
-## 🚀 About Me  
-I’m a **Full-Stack Software Developer** with **2.5+ years of professional experience** building scalable applications across **ERP, case management, financial analytics, e-commerce, and healthcare domains**.
+# 👋 Hi, I'm **Vrutik Parmar**
+### Full-Stack Software Developer • Cloud & Distributed Systems • Microsoft 365 Automation
 
-I specialize in designing **clean backend architectures**, building **modern frontend experiences**, and integrating **cloud-native automation** using AWS, Azure, Docker, CI/CD, and Microsoft Graph.
+📍 Windsor, ON, Canada  
+📧 **parmarvrutik1@gmail.com**  
+📱 **382-880-3587**  
 
-💡 I love solving complex problems, creating user-friendly products, and engineering solutions that have a real impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrutik-parmar-9261821b8)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrutik21)
 
-📍 **Location:** Windsor, Ontario  
-🎓 **Master of Applied Computing**, University of Windsor  
-📩 **Email:** parmar8a@uwindsor.ca  
+</div>
 
 ---
 
-## 🧰 Tech Stack Overview  
+## 🚀 **About Me**
+
+I’m a **full-stack developer with 3+ years of experience** building enterprise systems, distributed applications, and cloud-native platforms.  
+
+My work spans **solution architecture, backend engineering, frontend development, DevOps**, and **Microsoft 365 workflow automation**. I build systems that streamline operations, improve decision-making, and scale reliably across organizations.
+
+I specialize in:
+
+- Building **end-to-end enterprise platforms** (ERP, Case Management, Analytics)
+- Architecting **distributed backend systems** with queues, microservices & SQL
+- Integrating deep **Microsoft 365 automation** (SharePoint, Teams, Planner, OAuth)
+- Designing **intuitive UIs** using React.js, Next.js, Material UI, Tailwind
+- Deploying fault-tolerant workloads on **AWS, Azure, Docker, GitHub Actions**
+
+I care deeply about **developer experience**, **clean architecture**, and **delivering real business value**.
+
+---
+
+## 🧰 **Tech Stack**
 
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
+JavaScript • TypeScript • Java • C/C++ • Python • PHP • SQL
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
+React.js • Next.js • Redux • TanStack Query • Material UI • Tailwind CSS • HTML • CSS
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
----
+Node.js • Nest.js • Express.js • Spring Boot • REST APIs • Microservices
 
 ### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
+PostgreSQL • MySQL • MongoDB • AWS RDS • Azure SQL
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239922?style=for-the-badge&logo=githubactions&logoColor=white)
+AWS (EC2, S3, Lambda, SQS, SNS)  
+Azure (Entra ID, App Service)  
+Docker • GitHub Actions (CI/CD) • Redis • Nginx
+
+### **Other**
+Shell Scripting • Jest • JIRA • Design Patterns • Agile-Scrum • OAuth 2.0
 
 ---
 
-### **Tools**
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![UNIX](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+## 💼 **Professional Experience**
+
+### 🟦 **Software Developer — Insight Advantage Inc.**  
+*Windsor, ON — Jan 2025 to Present*
+
+- Architected and launched a **full Case Management System (CMS)** used across IES, WSIB, and CPP programs—managing thousands of client profiles, tasks, workflows, and documents.
+- Developed **dynamic dashboards and form builders** with React.js, Next.js, and TanStack Query.
+- Built a **secure backend using Node.js (Nest.js) + SQL**, integrated with **Microsoft Graph API**, enabling automation across SharePoint, Teams, Planner, Outlook, and Power Automate.
+- Integrated the CMS into **Microsoft Teams as a custom application**, delivering real-time task, request, and case notifications.
+- Implemented **CI/CD pipelines** using Docker, GitHub Actions, Azure (Entra ID, App Service, SQL), and Vercel.
+- Collaborated with case managers and leadership to shape workflows, improve UX, and accelerate productivity.
 
 ---
 
-## 📊 GitHub Stats  
+### 🟩 **Software Engineer — Bitontree Solutions**  
+*Ahmedabad, IN — Sept 2022 to Dec 2023*
 
-![Vrutik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vrutik21&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vrutik21&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements & Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Vrutik21&theme=radical&no-frame=true&margin-w=15)
-
----
-
-## 🌱 What I’m Currently Working On  
-- Developing a **case-management system** integrated with Microsoft 365 (Teams, Planner, SharePoint)  
-- Automating workflows via **Azure AD + Graph API**  
-- Building **backend services** with NestJS, PostgreSQL, and cloud functions  
-- Preparing for **system design & full-stack interviews**  
+- **ERP Platform (Aluminum Industry):**  
+  Designed a distributed backend using Node.js, PostgreSQL RDS, microservices, SQS/SNS queues, and automated order/inventory workflows—delivered ahead of schedule.
+- Built a **QuickBooks-powered analytics engine** with ETL pipelines and SQL-driven KPI dashboards.
+- Enabled real-time insights for KPIs like **EBITDA, Working Capital, AR/AP Days**, improving financial visibility for stakeholders.
+- Developed a **React/Next.js healthcare platform** with a shared component library using Turborepo + Storybook.
+- Contributed to a unified interface that centralized lab, pharmacy, and hospital workflows.
 
 ---
 
-## 💡 A Few Things About Me  
-- I enjoy turning complex business logic into **simple, elegant engineering solutions**  
-- I care deeply about **code quality, scalability, and clean architecture**  
-- I love exploring UI engineering, cloud automation, and distributed systems  
+## 🏗️ **Selected Projects**
+
+### 🧵 **Sock DFS — Distributed File System**  
+*Tech: C, C++, Socket Programming, Networking*  
+[GitHub Repo](https://github.com/Vrutik21/Sock-DFS)
+
+- Built a distributed file system supporting upload, download & archival across multiple server nodes.  
+- Supports multiple file types (.c, .txt, .pdf) with improved reliability and throughput.
 
 ---
 
-## 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrutik-parmar-9261821b8)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrutik21)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrutik_21)
+### 🏨 **Hotel Hawk — Hotel Price Aggregation Platform**  
+*Tech: React.js, Spring Boot, Selenium, Material UI*  
+[GitHub Repo](https://github.com/Vrutik21/HotelHawk)
+
+- Aggregates hotel data from multiple booking sites with advanced price/rating filters.  
+- Selected in the **Top 30 teams** at the University’s CS Demo Day for UI & innovation.  
+- Includes a unique **nearby hotel search** feature powered by real-time scraping.
+
+---
+
+## 🎓 **Education**
+
+### **Master of Applied Computing**  
+University of Windsor — CGPA: **83.11%**  
+*Jan 2024 – Aug 2025*
+
+### **Bachelor of Engineering — Computer Engineering**  
+Gujarat Technological University — CGPA: **8.57/10**  
+*Jun 2018 – Jun 2022*
+
+---
+
+## 🔥 GitHub Streak (More Reliable Than GitHub Stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vrutik21&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+> *Traditional GitHub Stats & Top Langs cards are currently unstable and often rate-limited, which is why they don’t load. This streak card works consistently.*
+
+---
+
+## 🤝 **Let’s Connect**
+
+- 💼 LinkedIn: **/vrutik-parmar-9261821b8**  
+- 👨‍💻 GitHub: **@Vrutik21**  
+- 📧 Email: **parmarvrutik1@gmail.com**
+
+---
+
+<div align="center">
+✨ *Always open to collaborating on cloud, full-stack, distributed systems, and automation projects.*  
+</div>
