@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Vrutik Parmar**
 
-### Full-Stack Software Developer  
+### Full-Stack Software Developer • Cloud Engineer • Microsoft 365 Integrations  
 📍 Windsor, ON | 📧 parmarvrutik1@gmail.com
 
 I build **scalable, cloud-ready applications** with a focus on clean architecture, automation, and exceptional user experience.  
