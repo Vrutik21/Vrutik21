@@ -23,7 +23,7 @@ With 3+ years of experience, I have delivered solutions across ERP, case managem
 
 ### Insight Advantage Inc  
 **Software Developer**  
-- Developed a complete Case Management System supporting IES, WSIB, and CPP programs  
+- Developed a complete Case Management System supporting multiple government employment programs like IES, WSIB, and CPP.  
 - Automated workflows across SharePoint, Teams, Planner, Outlook, and Power Automate using Graph API  
 - Built dynamic dashboards and schema driven forms using React, Next.js, TanStack Query  
 - Designed secure backend modules using Nest.js, PostgreSQL, OAuth2 and Entra ID  
