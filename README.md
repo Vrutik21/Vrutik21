@@ -71,9 +71,14 @@ Full-stack application built with React and Spring Boot, featuring hotel search,
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vrutik21\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vrutik21&hide_border=true)
 
-[![Vrutik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrutik21\&theme=github-compact\&hide_border=true)](https://github.com/Vrutik21)
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vrutik21&theme=github_dark"
+  alt="Vrutik's GitHub Profile Summary"
+/>
 
 </div>
 
