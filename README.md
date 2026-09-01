@@ -1,99 +1,80 @@
 # 👋 Hey, I'm Vrutik Parmar
 
-Full Stack Software Developer  
-📍 Windsor, ON • 📧 parmarvrutik1@gmail.com
+**Full-Stack Software Developer** based in Windsor, Ontario 🇨🇦
 
-I design and build production grade systems with a focus on scalability, fault tolerance, API design, and cloud driven automation.  
-With 3+ years of experience, I have delivered solutions across ERP, case management, healthcare, and financial analytics, focusing on performance, usability, and workflow automation.
+I have **3+ years of experience** building production web applications with **TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, AWS, and Azure**.
 
----
+My experience includes SaaS platforms, internal business applications, healthcare systems, ERP workflows, financial analytics, API integrations, workflow automation, and cloud deployments.
 
-## 🚀 Tech Stack
-
-**Languages:** JavaScript, TypeScript, Java, C/C++, Python, PHP, SQL  
-**Frontend:** React, Next.js, Redux, TanStack Query, Material UI, Tailwind CSS  
-**Backend:** Node.js, Nest.js, Express, Spring Boot, REST APIs, Microservices  
-**Cloud and DevOps:** AWS (EC2, S3, Lambda, SQS, SNS), Azure (Entra ID, App Service), Docker, GitHub Actions, Redis, Nginx  
-**Databases:** PostgreSQL, MySQL, MongoDB, AWS RDS, Azure SQL  
-**Architecture:** Event Driven Systems, API Design, ETL Pipelines, OAuth2, Distributed Workflows  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vrutik-parmar-9261821b8)
+[![GitHub](https://img.shields.io/badge/GitHub-Vrutik21-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Vrutik21)
 
 ---
 
-## 💼 Experience Snapshot
+## 🛠 Tech Stack
 
-### Insight Advantage Inc  
-**Software Developer**  
-- Developed a complete Case Management System supporting multiple government employment programs like IES, WSIB, and CPP.  
-- Automated workflows across SharePoint, Teams, Planner, Outlook, and Power Automate using Graph API  
-- Built dynamic dashboards and schema driven forms using React, Next.js, TanStack Query  
-- Designed secure backend modules using Nest.js, PostgreSQL, OAuth2 and Entra ID  
-- Implemented cloud deployments and CI/CD using Docker, GitHub Actions, Azure, and Vercel  
+**Frontend**
+React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · TanStack Query · React Hook Form · Material UI · Tailwind CSS · Storybook
 
-### Bitontree Solutions  
-**Software Engineer**  
-- Built an ERP platform using microservices backed by SQS/SNS messaging  
-- Created ETL pipelines and KPI dashboards integrating QuickBooks financial data  
-- Developed a unified healthcare platform using Next.js and Storybook component driven architecture  
-- Improved performance, code quality, and async workflows for enterprise clients  
+**Backend & APIs**
+Node.js · NestJS · Express.js · REST APIs · Microservices · OAuth 2.0 · Microsoft Graph API
+
+**Databases**
+PostgreSQL · MySQL · MongoDB · Prisma ORM · Mongoose
+
+**Cloud & DevOps**
+AWS · Azure · Docker · GitHub Actions · CI/CD · Vercel · Railway
+
+**Also worked with**
+Java · Spring Boot · Python · C/C++ · SQL
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I've Worked On
+
+### Insight Advantage Inc. — Software Developer
+
+* Built and currently own a **full-stack case management platform** using React, Next.js, TypeScript, NestJS, Prisma, and PostgreSQL.
+* Developed configurable workflows, dashboards, reporting, task automation, document management, RBAC, and SMS functionality.
+* Integrated Microsoft Graph, Teams, SharePoint, Outlook, Power Automate, Twilio, and external partner APIs.
+* Migrated the platform to a **Canada-resident Azure architecture** with Docker and GitHub Actions CI/CD.
+
+### Hexaware Technologies — Software Developer
+
+* Built healthcare applications using **React, Next.js, Redux, Turborepo, and Storybook**, including laboratory and pharmacy integrations.
+* Developed financial analytics systems using **Node.js, MySQL, QuickBooks APIs, and ETL-style pipelines**.
+* Built ERP backend services using **NestJS, MongoDB, Mongoose, AWS SQS, and SNS**.
+
+---
+
+## 🚀 Featured Projects
+
+### Sock DFS — Distributed File System
+
+Distributed file system built with **C/C++ and socket programming**, supporting concurrent clients and distributed file operations.
+
+### Hotel Hawk — Hotel Price Aggregation Platform
+
+Full-stack application built with **React and Spring Boot**, featuring hotel search, pricing aggregation, and nearby recommendations.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-### 🔥 Contribution Streak  
-![Streak](https://streak-stats.demolab.com?user=Vrutik21&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vrutik21\&hide_border=true)
 
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrutik21\&hide_border=true)
 
-### 📈 Contribution Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrutik21&theme=react-dark&hide_border=true)
-
----
-
-### 🧩 Profile Summary  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vrutik21&theme=radical" alt="summary" />
-
----
-
-### ⚡ Commit Productivity  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vrutik21&theme=radical" alt="productive-time" />
-
----
-
-### 📦 Repository Stats  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vrutik21&theme=radical" alt="repo-stats" />
-
----
-
-### 🧠 Language Footprint
-- Primary languages: JavaScript, TypeScript, Java, C++, Python  
-- Frontend stack: React, Next.js, Redux, TanStack Query  
-- Backend stack: Node.js, Nest.js, Spring Boot  
-- Cloud usage: AWS EC2, S3, Lambda, SQS, SNS and Azure App Service  
-- Database footprint: PostgreSQL, MongoDB, MySQL  
-- Repo categories: full stack apps, distributed systems, automation tools, scrapers, ETL pipelines  
-
----
-
-### ⭐ Developer Stats
-
-![Followers](https://img.shields.io/github/followers/Vrutik21?style=for-the-badge&logo=github&color=yellow)
-![Stars](https://img.shields.io/github/stars/Vrutik21?style=for-the-badge&logo=github&color=lightgrey)
-![Repos](https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits%20This%20Year-Active-green?style=for-the-badge)
+</div>
 
 ---
 
 ## 🎓 Education
 
-Master of Applied Computing, University of Windsor  
-Bachelor of Engineering in Computer Engineering, GTU  
+**Master of Applied Computing**
+University of Windsor
 
----
-
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrutik-parmar-9261821b8)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrutik21)
+**Bachelor of Engineering — Computer Engineering**
+Gujarat Technological University
