@@ -32,30 +32,38 @@ Java · Spring Boot · Python · C/C++ · SQL
 
 ## 💼 What I've Worked On
 
-### Insight Advantage Inc. — Software Developer
+### Insight Advantage Inc.
 
-* Built and currently own a **full-stack case management platform** using React, Next.js, TypeScript, NestJS, Prisma, and PostgreSQL.
+**Software Developer**
+
+* Built and currently own a full-stack case management platform using React, Next.js, TypeScript, NestJS, Prisma, and PostgreSQL.
 * Developed configurable workflows, dashboards, reporting, task automation, document management, RBAC, and SMS functionality.
 * Integrated Microsoft Graph, Teams, SharePoint, Outlook, Power Automate, Twilio, and external partner APIs.
-* Migrated the platform to a **Canada-resident Azure architecture** with Docker and GitHub Actions CI/CD.
+* Migrated the platform to a Canada-resident Azure architecture using Docker and GitHub Actions CI/CD.
 
-### Hexaware Technologies — Software Developer
+### Hexaware Technologies
 
-* Built healthcare applications using **React, Next.js, Redux, Turborepo, and Storybook**, including laboratory and pharmacy integrations.
-* Developed financial analytics systems using **Node.js, MySQL, QuickBooks APIs, and ETL-style pipelines**.
-* Built ERP backend services using **NestJS, MongoDB, Mongoose, AWS SQS, and SNS**.
+**Software Developer**
+
+* Built healthcare applications using React, Next.js, Redux, Turborepo, and Storybook, including laboratory and pharmacy integrations.
+* Developed financial analytics systems using Node.js, MySQL, QuickBooks APIs, and ETL-style pipelines.
+* Built ERP backend services using NestJS, MongoDB, Mongoose, AWS SQS, and SNS.
 
 ---
 
 ## 🚀 Featured Projects
 
-### Sock DFS — Distributed File System
+### Sock DFS
 
-Distributed file system built with **C/C++ and socket programming**, supporting concurrent clients and distributed file operations.
+**Distributed File System**
 
-### Hotel Hawk — Hotel Price Aggregation Platform
+Built with C/C++ and socket programming, supporting concurrent clients and distributed file operations.
 
-Full-stack application built with **React and Spring Boot**, featuring hotel search, pricing aggregation, and nearby recommendations.
+### Hotel Hawk
+
+**Hotel Price Aggregation Platform**
+
+Full-stack application built with React and Spring Boot, featuring hotel search, pricing aggregation, and nearby recommendations.
 
 ---
 
@@ -65,7 +73,7 @@ Full-stack application built with **React and Spring Boot**, featuring hotel sea
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vrutik21\&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrutik21\&hide_border=true)
+[![Vrutik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrutik21\&theme=github-compact\&hide_border=true)](https://github.com/Vrutik21)
 
 </div>
 
@@ -76,5 +84,5 @@ Full-stack application built with **React and Spring Boot**, featuring hotel sea
 **Master of Applied Computing**
 University of Windsor
 
-**Bachelor of Engineering — Computer Engineering**
+**Bachelor of Engineering, Computer Engineering**
 Gujarat Technological University
